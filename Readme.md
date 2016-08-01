@@ -1,6 +1,5 @@
 # Личный проект «Код и Магия» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Автор: [Дмитрий Андропов](https://up.htmlacademy.ru/javascript/5/user/33426).
 
 
 
